@@ -25,7 +25,7 @@ SECRET_KEY = '#n+&x-*vtm(4fw-lz3ceof%daj&o3m)=0f+05hk@6wiek4z(+m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<SigglesMik>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'SigglesMik.pythonanywhere.com']
 
 
 # Application definition
